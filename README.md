@@ -265,7 +265,6 @@ This is a local proof of concept for one sample document and one shared review.
 - Configure GitHub Actions for lint and build validation.
 - Replace local storage with Google Cloud Storage.
 - Deploy the application to Cloud Run.
-- Explore review metadata storage in Oracle Database@Google Cloud using an existing authorized environment.
 
 ## References
 
